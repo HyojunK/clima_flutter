@@ -5,10 +5,10 @@ class LocationScreen extends StatefulWidget {
   const LocationScreen({super.key});
 
   @override
-  _LocationScreenState createState() => _LocationScreenState();
+  LocationScreenState createState() => LocationScreenState();
 }
 
-class _LocationScreenState extends State<LocationScreen> {
+class LocationScreenState extends State<LocationScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -76,3 +76,7 @@ class _LocationScreenState extends State<LocationScreen> {
     );
   }
 }
+
+    // double temperature = decodedData['main']['temp'];
+    //   int condition = decodedData['weather'][0]['id'];
+    //   String cityName = decodedData['name'];
