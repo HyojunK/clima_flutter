@@ -1,16 +1,19 @@
-# clima_flutter
+# Clima weather App 💪
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+* A weather application that displays real-time weather information
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+## 📷 Preview
+![clima_preview](https://github.com/HyojunK/clima_flutter/assets/26563226/629c715c-aa69-4f86-b19d-4a9a12b3d0bc)
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 What I've Learned
+* Asynchronous programming in Dart
+* Use of async, await and Future
+* How to use APIs using Dart http package
+* How to use Spinner Widget
+* How to use TextField Widget
+* Getting live location data for both iOS and Android by using Geolocator package
+* Passing Data Backwards through the Navigation Stack in flutter
